@@ -33,7 +33,7 @@ pnpm install
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open (https://syan-s-portfolio.vercel.app/) in your browser.
 
 ## Export static HTML
 
@@ -44,7 +44,7 @@ Serve that folder over HTTP (for example, with Python 3):
 python -m http.server 8000 --directory out
 ```
 
-Then open [http://localhost:8000](http://localhost:8000). The page is pre-rendered HTML with local JavaScript and CSS assets; it is not a single-file HTML document.
+Then open (https://syan-s-portfolio.vercel.app/)0). The page is pre-rendered HTML with local JavaScript and CSS assets; it is not a single-file HTML document.
 
 ## Deploy to Vercel
 
